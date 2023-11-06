@@ -19,7 +19,7 @@ To use this repository, follow these instructions:
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Leimengan/Neurnia-2023-UCP.git
+   git clone https://github.com/Neurnia/Neurnia-2023-UCP.git
    cd your-repo
    ```
 
